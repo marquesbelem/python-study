@@ -1,22 +1,18 @@
-# Aprendendo Python 
+# Aprendendo Python 🐍
 
 Esse repositorio tem como objetivo conter projetos sobre conceitos iniciais que estarei aprendendo em Python.
-Com ajuda solicitei ao Deepseek que fizesse um plano de estudo que aborde os principais conceitos em Python para que possa desenvolver pequenos projetos. 
+Solicitei ao Deepseek que fizesse um plano de estudo que aborde os conceitos principais em Python para que eu possa desenvolver pequenos projetos. 
 
 Estou usando como base o plano criado e explorando mais sobre cada projeto citado. 
+##  Prompt utilizado 
 
-
-## Esse foi o prompt que utilizei: 
+```bash
 oi preciso que você me ajude a criar um plano de estudo para aprender Python, leve em consideração essas informações: 
-quero fazer pequenos projetos significativos para aprender tudo de essencial com Python,
+quero fazer pequenos projetos significativos para aprender tudo de essencial com Python.
 projetos que durem no máximo 1 semana para ficar pronto,
-level em consideração que eu já sou programadora há 8 anos, tenho conhecimento sobre lógica de programação e o intuito desse plano de estudo é aprender uma linguagem nova para entender os principais pontos dessa linguagem,
+leve em consideração que eu já sou programadora há 8 anos, tenho conhecimento sobre lógica de programação e o intuito desse plano de estudo é aprender uma linguagem nova para entender os principais pontos dessa linguagem.
 quero que liste dentro do plano qual tipo de projeto tenho que fazer e o que vou aprender com ele
-
-## Plano 
-Esse foi o plano de estudo criado pelo Deepseek. 
-
-Ótimo! Vou criar um plano de estudo intensivo e prático para você aprender Python de forma eficiente, focando em projetos significativos que podem ser concluídos em até uma semana cada. Como você já tem experiência em programação, pularemos conceitos muito básicos e focaremos no que é essencial para freelas (automação, web scraping, APIs, scripts úteis, etc.).
+```
 
 ### **Plano de Estudo: Python (4-6 semanas)**
 
