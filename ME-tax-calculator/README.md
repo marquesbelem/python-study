@@ -12,5 +12,5 @@
 ## 📝 Anotações importantes 📝
 
 ### Comando para gerar o executavel
-python -m PyInstaller main.py 
+`python -m PyInstaller main.py`
 - Para executar basta ir na pasta DIST que será criada
