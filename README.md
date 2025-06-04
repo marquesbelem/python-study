@@ -19,9 +19,13 @@ quero que liste dentro do plano qual tipo de projeto tenho que fazer e o que vou
 Cada projeto abordará conceitos-chave do Python, além de bibliotecas e ferramentas úteis para o mercado.
 
 ---
-**Bibliotecas**
+**Ambiente Virutal**
 - Utilizando o venv para criar um ambiente virtual `python -m venv [nome]`
 - Para ativar o ambiente `.\<environment_name>\Scripts\activate`
+- Pra saber se está ativo tem que aparecer `(.venv)` na linha do terminal 
+
+Dica: Se estiver no PowerShell e aparecer erro de permissão, execute:
+`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 
 ### **Semana 1: Python Básico + Projeto de Automação**
 

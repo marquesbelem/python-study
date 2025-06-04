@@ -60,9 +60,9 @@ def factor_r(gross_total,payrol_total):
 
 def necessary_adjustment(gross_total,payrol_total,months): 
     X = (0.28 * gross_total) - payrol_total
-    print(f"Valor total a aumentar na folha: R$ {X:,.2f}", color='yellow', format='underline', background='grey')
+    print(f"\t\tValor total a aumentar na folha: R$ {format_to_real(X)}", color='yellow', format='underline', background='grey')
     months_adjustment = X / months
-    print(f"Aumento mensal necessário no seu pró labore: R$ {months_adjustment:,.2f}", color='yellow', format='underline', background='grey')
+    print(f"\t\tAumento mensal necessário no seu pró labore: R$ {format_to_real(months_adjustment)}", color='yellow', format='underline', background='grey')
 
 payroll_total = get_payroll_total()
 print(f"Total de folha de pagamento: {format_to_real(payroll_total)}", color='blue', format='underline', background='grey')

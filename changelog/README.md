@@ -1,0 +1,1 @@
+python main.py --repo-path "/caminho/para/meu/repo" --username "JoaoSilva" --output "projeto1"

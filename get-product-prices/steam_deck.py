@@ -36,5 +36,5 @@ def save_csv(data, filename):
 
 mercado_livre_html = get_html("https://lista.mercadolivre.com.br/steamdeck")
 mercado_livre = MercadoLivre()
-products = mercado_livre.get_pr oducts(mercado_livre_html)
+products = mercado_livre.get_products(mercado_livre_html)
 save_csv(products, 'steamdeck.csv')
